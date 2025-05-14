@@ -1,3 +1,5 @@
+package resources;
+
 import br.com.conversormoedas.conversor.ConversorMoedas;
 import br.com.conversormoedas.model.*;
 
